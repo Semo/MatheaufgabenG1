@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/java-7-openjdk-amd64">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.server.core.container/org.eclipse.jst.server.tomcat.runtimeTarget/Apache Tomcat v7.0">
+		<attributes>
+			<attribute name="owner.project.facets" value="jst.web"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="/home/semo/jetty/lib/jsp/javax.el-3.0.0.jar"/>
+	<classpathentry kind="lib" path="/home/semo/jetty/lib/jsp/javax.servlet.jsp.jstl-1.2.2.jar"/>
+	<classpathentry kind="lib" path="/home/semo/jetty/lib/jsp/javax.servlet.jsp-2.3.2.jar"/>
+	<classpathentry kind="lib" path="/home/semo/jetty/lib/jsp/javax.servlet.jsp-api-2.3.1.jar"/>
+	<classpathentry kind="lib" path="/home/semo/jetty/lib/jsp/jetty-jsp-9.2.7.v20150116.jar"/>
+	<classpathentry kind="lib" path="/home/semo/jetty/lib/jsp/jetty-jsp-jdt-2.3.3.jar"/>
+	<classpathentry kind="lib" path="/home/semo/jetty/lib/jsp/org.eclipse.jdt.core-3.8.2.v20130121.jar"/>
+	<classpathentry kind="lib" path="/home/semo/jetty/lib/jsp/org.eclipse.jetty.orbit.javax.servlet.jsp.jstl-1.2.0.v201105211821.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
